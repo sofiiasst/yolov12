@@ -1,2 +1,4 @@
 *__pycache__/
 /runs/training*
+/datasets/
+datasets.zip
