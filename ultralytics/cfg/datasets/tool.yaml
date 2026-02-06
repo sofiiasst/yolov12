@@ -1,8 +1,9 @@
 # Custom dataset for tool classification
 
-path: /content/drive/MyDrive/YOLOv12/yolov12/datasets/tool
+path: /content/drive/MyDrive/YOLOv12/yolov12/datasets
 train: images/train  # train images
 val: images/val      # val images
+test: images/test    # test images
 
 nc: 1
 
